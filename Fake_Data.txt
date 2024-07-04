@@ -1,0 +1,135 @@
+[
+  {
+    "username": "user123",
+    "name": "John Doe",
+    "hashed_password": "user123",
+    "liked_blogs": null,
+    "email_id": "johndoe@example.com"
+  },
+  {
+    "username": "cool_gal",
+    "name": "Jane Smith",
+    "hashed_password": "cool_gal",
+    "liked_blogs": null,
+    "email_id": "janesmith@example.com"
+  },
+  {
+    "username": "tech_guru",
+    "name": "Michael Johnson",
+    "hashed_password": "tech_guru",
+    "liked_blogs": null,
+    "email_id": "michaelj@example.com"
+  },
+  {
+    "username": "travel_bug",
+    "name": "Emily Davis",
+    "hashed_password": "travel_bug",
+    "liked_blogs": null,
+    "email_id": "emilyd@example.com"
+  },
+  {
+    "username": "bookworm89",
+    "name": "Daniel Brown",
+    "hashed_password": "bookworm89",
+    "liked_blogs": null,
+    "email_id": "danielbrown@example.com"
+  }
+]
+
+
+
+
+
+
+[
+  {
+    "user_id": 3,
+    "blog_title": "The Joys of Gardening",
+    "blog_summary": "An exploration of the benefits and joys of gardening.",
+    "blog_content": "Gardening is a wonderful activity that brings many benefits. It provides exercise, fresh air, and a chance to connect with nature. Many people find gardening to be a great way to relieve stress and enjoy the outdoors."
+  },
+  {
+    "user_id": 1,
+    "blog_title": "Top 10 Travel Destinations",
+    "blog_summary": "Discover the top 10 travel destinations to visit this year.",
+    "blog_content": "Traveling is a great way to experience new cultures and create lasting memories. In this blog post, we explore the top 10 travel destinations for this year, including popular cities and hidden gems around the world."
+  },
+  {
+    "user_id": 4,
+    "blog_title": "Healthy Eating Tips",
+    "blog_summary": "Tips and tricks for maintaining a healthy diet.",
+    "blog_content": "Eating healthy is essential for maintaining good health. In this blog post, we share some practical tips for making healthier food choices, such as incorporating more fruits and vegetables into your diet and reducing processed foods."
+  },
+  {
+    "user_id": 2,
+    "blog_title": "The Future of Technology",
+    "blog_summary": "A look at upcoming technology trends and innovations.",
+    "blog_content": "Technology is constantly evolving, and the future holds many exciting possibilities. In this blog post, we discuss some of the most promising technology trends and innovations, from artificial intelligence to quantum computing."
+  },
+  {
+    "user_id": 5,
+    "blog_title": "Mastering the Art of Cooking",
+    "blog_summary": "Learn the essential skills and techniques for cooking like a pro.",
+    "blog_content": "Cooking is an art that can be mastered with practice and the right techniques. In this blog post, we share some essential cooking skills and tips to help you become a better cook, from knife skills to flavor combinations."
+  },
+  {
+    "user_id": 3,
+    "blog_title": "Mindfulness Meditation",
+    "blog_summary": "The benefits of mindfulness meditation and how to practice it.",
+    "blog_content": "Mindfulness meditation is a practice that can help reduce stress and increase focus. In this blog post, we explore the benefits of mindfulness and provide tips on how to incorporate it into your daily routine."
+  },
+  {
+    "user_id": 1,
+    "blog_title": "Sustainable Living",
+    "blog_summary": "Practical tips for living a more sustainable and eco-friendly life.",
+    "blog_content": "Living sustainably is important for the health of our planet. This blog post offers practical tips for reducing your environmental footprint, such as recycling, conserving energy, and choosing sustainable products."
+  },
+  {
+    "user_id": 4,
+    "blog_title": "Creative Writing Tips",
+    "blog_summary": "Enhance your writing skills with these creative writing tips.",
+    "blog_content": "Creative writing is a skill that can be developed with practice. In this blog post, we share tips for improving your writing, from brainstorming ideas to crafting compelling narratives."
+  },
+  {
+    "user_id": 2,
+    "blog_title": "Personal Finance Management",
+    "blog_summary": "Strategies for managing your personal finances effectively.",
+    "blog_content": "Managing your personal finances is crucial for achieving financial stability. This blog post provides strategies for budgeting, saving, and investing to help you manage your money better."
+  },
+  {
+    "user_id": 5,
+    "blog_title": "Fitness for Beginners",
+    "blog_summary": "A beginner's guide to starting a fitness routine.",
+    "blog_content": "Starting a fitness routine can be challenging, but it's important for overall health. This blog post offers a guide for beginners, including tips on setting goals, choosing exercises, and staying motivated."
+  },
+  {
+    "user_id": 3,
+    "blog_title": "Home Organization Hacks",
+    "blog_summary": "Simple hacks to keep your home organized and clutter-free.",
+    "blog_content": "Keeping your home organized can reduce stress and improve your living environment. In this blog post, we share simple organization hacks, such as decluttering, creating storage solutions, and maintaining a clean space."
+  },
+  {
+    "user_id": 1,
+    "blog_title": "Photography Tips for Beginners",
+    "blog_summary": "Basic photography tips to help beginners improve their skills.",
+    "blog_content": "Photography is a rewarding hobby that anyone can learn. This blog post provides basic tips for beginners, including understanding camera settings, composition techniques, and lighting."
+  },
+  {
+    "user_id": 4,
+    "blog_title": "DIY Home Improvement",
+    "blog_summary": "Easy DIY projects to enhance your home.",
+    "blog_content": "DIY home improvement projects can be fun and cost-effective. In this blog post, we suggest easy projects to enhance your home, such as painting, installing shelves, and creating decorative pieces."
+  },
+  {
+    "user_id": 2,
+    "blog_title": "Exploring the World of Music",
+    "blog_summary": "An introduction to different music genres and their history.",
+    "blog_content": "Music is a universal language that spans cultures and history. This blog post explores different music genres, from classical to contemporary, and provides an introduction to their origins and key characteristics."
+  },
+  {
+    "user_id": 5,
+    "blog_title": "Pet Care Essentials",
+    "blog_summary": "Tips for taking care of your pets and ensuring their well-being.",
+    "blog_content": "Taking care of pets requires knowledge and dedication. In this blog post, we share essential tips for pet care, including feeding, grooming, and health check-ups to ensure your pets are happy and healthy."
+  }
+]
